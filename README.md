@@ -6,7 +6,11 @@
 
 1. 주피터 노트북 설치
 2. data의 있는 소스 붙혀넣기
-3. data의 있는 data1.csv 파일 경로확인 및 지정
+3. 데이터공공포털의
+  https://www.data.go.kr/dataset/fileDownload.do?atchFileId=FILE_000000001526404&fileDetailSn=1&publicDataDetailPk=uddi:797ec451-43c8-44ae-8bed-b205633efad2 다운로드
+4. 다운로드한 후 , [소상공인시장진흥공단_상가업소정보_201903]의 1번째파일을 압축해제
+5. 압축해제한 파일은 data1.csv파일로 이름변경
+6. 주피터에 경로 저장 및 변경
 4. 실행
 
 ------------------------
@@ -18,4 +22,4 @@
 --------------------------
 
 # 결과화면
-![result_img](data/결과이미지.jpg)
+![result_img](/data/결과이미지.jpg)
